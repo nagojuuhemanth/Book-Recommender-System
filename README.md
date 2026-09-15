@@ -1,5 +1,3 @@
-# Book-Recommender-System
----
 # Book Recommender System
 
 A content-based book recommendation system that uses natural language processing and Sentence-BERT (SBERT) embeddings to recommend books based on the semantic similarity of their summaries.
